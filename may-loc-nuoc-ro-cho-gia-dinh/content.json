@@ -1,0 +1,90 @@
+{
+  "chu_de": "Máy lọc nước RO cho gia đình",
+  "cta_link": "#lien-he",
+  "duyet": true,
+  "mau": "#0b7a75",
+  "ngay": "2026-11-04",
+  "nguon": [
+    "https://vi.wikipedia.org/wiki/Thẩm_thấu_ngược",
+    "https://vi.wikipedia.org/wiki/Màng_lọc_R.O"
+  ],
+  "noi_dung": {
+    "cac_buoc": [
+      {
+        "mo_ta": "Đánh giá chất lượng nước nhà bạn",
+        "tieu_de": "Kiểm tra tình trạng nước"
+      },
+      {
+        "mo_ta": "Lựa chọn máy lọc nước phù hợp",
+        "tieu_de": "Chọn loại máy lọc nước RO"
+      },
+      {
+        "mo_ta": "Nhận tư vấn từ chuyên gia",
+        "tieu_de": "Nhận hỗ trợ chuyên nghiệp"
+      }
+    ],
+    "cta_cuoi": {
+      "mo_ta": "Tư vấn ngay",
+      "nut": "Nhận tư vấn miễn phí",
+      "tieu_de": "Hãy bắt đầu hôm nay!"
+    },
+    "faq": [
+      {
+        "dap": "Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất.",
+        "hoi": "Bao lâu mới nhận được tư vấn?"
+      },
+      {
+        "dap": "Dựa trên tình trạng nước nhà bạn, chúng tôi sẽ tư vấn loại máy phù hợp.",
+        "hoi": "Máy lọc nước RO phù hợp với gia đình tôi như thế nào?"
+      },
+      {
+        "dap": "Thời gian thay lõi lọc phụ thuộc vào chất lượng nước và tần suất sử dụng.",
+        "hoi": "Thời gian thay lõi lọc là bao lâu?"
+      },
+      {
+        "dap": "Đảm bảo nước sạch và an toàn cho sức khỏe gia đình.",
+        "hoi": "Lợi ích khi sử dụng máy lọc nước RO là gì?"
+      }
+    ],
+    "hero": {
+      "mo_ta": "Nước uống tinh khiết chỉ sau 3 bước",
+      "nhan": "Dành cho gia đình",
+      "nut": "Nhận tư vấn miễn phí",
+      "tieu_de": "Nước sạch ngay tại nhà"
+    },
+    "loi_ich": [
+      {
+        "icon": "💧",
+        "mo_ta": "Lọc bỏ vi khuẩn và kim loại nặng",
+        "tieu_de": "An toàn sức khỏe"
+      },
+      {
+        "icon": "🔄",
+        "mo_ta": "Thay lõi lọc dễ dàng, tiết kiệm",
+        "tieu_de": "Dễ dàng bảo dưỡng"
+      },
+      {
+        "icon": "💧",
+        "mo_ta": "Nước tinh khiết, không có mùi clo",
+        "tieu_de": "Nước trong và sạch"
+      },
+      {
+        "icon": "⏱",
+        "mo_ta": "Thời gian lắp đặt nhanh chóng",
+        "tieu_de": "Tiết kiệm thời gian"
+      }
+    ],
+    "seo_description": "Tư vấn chọn máy lọc nước RO phù hợp cho gia đình, giúp nước sạch, an toàn và tiết kiệm. Nhận tư vấn miễn phí hôm nay!",
+    "seo_title": "Tư vấn máy lọc nước RO cho gia đình",
+    "van_de": {
+      "cac_y": [
+        "Nước nhà bạn có mùi clo hoặc vị lạ?",
+        "Bạn muốn nước sạch mà không cần đun sôi?",
+        "Bạn lo lắng về các chất độc hại trong nước?"
+      ],
+      "tieu_de": "Lọc sạch nước nhà bạn"
+    }
+  },
+  "slug": "may-loc-nuoc-ro-cho-gia-dinh",
+  "template": "mac_dinh"
+}
