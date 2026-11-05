@@ -1,0 +1,88 @@
+{
+  "canh_bao": [],
+  "chu_de": "Lọc nước gia đình loại nào tốt",
+  "cta_link": "#lien-he",
+  "duyet": true,
+  "mau": "#e4572e",
+  "ngay": "2026-11-04",
+  "nguon": [
+    "https://vi.wikipedia.org/wiki/Ngô_Đình_Diệm",
+    "https://vi.wikipedia.org/wiki/Việt_Nam",
+    "https://vi.wikipedia.org/wiki/Nước"
+  ],
+  "noi_dung": {
+    "cac_buoc": [
+      {
+        "mo_ta": "Đánh giá chất lượng nước nhà bạn",
+        "tieu_de": "Đánh giá nước"
+      },
+      {
+        "mo_ta": "Chọn loại máy lọc phù hợp",
+        "tieu_de": "Lựa chọn máy lọc"
+      },
+      {
+        "mo_ta": "Nhận tư vấn ngay hôm nay",
+        "tieu_de": "Nhận tư vấn"
+      }
+    ],
+    "cta_cuoi": {
+      "mo_ta": "Hãy bắt đầu ngay!",
+      "nut": "Tư vấn miễn phí",
+      "tieu_de": "Nhận tư vấn miễn phí ngay hôm nay"
+    },
+    "faq": [
+      {
+        "dap": "Chúng tôi sẽ liên hệ bạn trong thời gian sớm nhất.",
+        "hoi": "Thời gian liên hệ tư vấn là bao lâu?"
+      },
+      {
+        "dap": "Chúng tôi cung cấp nhiều loại máy lọc nước khác nhau phù hợp với từng gia đình.",
+        "hoi": "Có những loại máy lọc nước nào?"
+      },
+      {
+        "dap": "Bạn có thể chọn loại máy lọc dựa trên nhu cầu và nguồn nước tại gia đình. Hãy liên hệ để được tư vấn cụ thể.",
+        "hoi": "Làm thế nào để chọn máy lọc nước phù hợp?"
+      }
+    ],
+    "hero": {
+      "mo_ta": "Tư vấn miễn phí ngay hôm nay!",
+      "nhan": "Dành cho gia đình",
+      "nut": "Tư vấn miễn phí",
+      "tieu_de": "Lọc nước gia đình loại nào tốt?"
+    },
+    "loi_ich": [
+      {
+        "icon": "💧",
+        "mo_ta": "Nước sạch, an toàn cho sức khỏe",
+        "tieu_de": "Sức khỏe gia đình"
+      },
+      {
+        "icon": "💰",
+        "mo_ta": "Tiết kiệm chi phí mua nước đóng bình",
+        "tieu_de": "Tiết kiệm chi phí"
+      },
+      {
+        "icon": "🔧",
+        "mo_ta": "Dễ dàng bảo dưỡng và thay thế lõi lọc",
+        "tieu_de": "Dễ dàng bảo dưỡng"
+      },
+      {
+        "icon": "🔒",
+        "mo_ta": "Đảm bảo nguồn nước luôn an toàn",
+        "tieu_de": "An tâm sử dụng"
+      }
+    ],
+    "seo_description": "Tìm hiểu loại máy lọc nước gia đình nào tốt nhất, đảm bảo nguồn nước sạch và an toàn cho gia đình bạn.",
+    "seo_title": "Lọc nước gia đình loại nào tốt?",
+    "van_de": {
+      "cac_y": [
+        "Bạn đang lo lắng về chất lượng nước trong gia đình?",
+        "Bạn muốn tìm hiểu loại máy lọc nước phù hợp?",
+        "Bạn cần tư vấn về máy lọc nước gia đình?"
+      ],
+      "tieu_de": "Bạn đang lo lắng về nguồn nước gia đình?"
+    }
+  },
+  "slug": "loc-nuoc-gia-dinh-loai-nao-tot",
+  "template": "mac_dinh"
+}

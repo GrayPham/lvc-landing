@@ -1,0 +1,87 @@
+{
+  "canh_bao": [],
+  "chu_de": "Nên mua máy lọc nước loại nào",
+  "cta_link": "#lien-he",
+  "duyet": true,
+  "mau": "#e4572e",
+  "ngay": "2026-11-04",
+  "nguon": [
+    "https://vi.wikipedia.org/wiki/Việt_Nam",
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Việt_Nam",
+    "https://vi.wikipedia.org/wiki/Liên_Xô"
+  ],
+  "noi_dung": {
+    "cac_buoc": [
+      {
+        "mo_ta": "Đánh giá chất lượng nước nhà bạn",
+        "tieu_de": "Đánh giá nước"
+      },
+      {
+        "mo_ta": "Chọn máy lọc nước phù hợp",
+        "tieu_de": "Chọn máy lọc"
+      },
+      {
+        "mo_ta": "Nhận tư vấn miễn phí từ chuyên gia",
+        "tieu_de": "Tư vấn"
+      }
+    ],
+    "cta_cuoi": {
+      "mo_ta": "Bắt đầu ngay",
+      "nut": "Nhận tư vấn",
+      "tieu_de": "Bạn đã sẵn sàng chưa?"
+    },
+    "faq": [
+      {
+        "dap": "Chuyên gia sẽ tư vấn dựa trên chất lượng nước và nhu cầu của gia đình bạn.",
+        "hoi": "Tư vấn miễn phí gồm những gì?"
+      },
+      {
+        "dap": "Chúng tôi sẽ liên hệ với bạn sau khi nhận được thông tin.",
+        "hoi": "Bao lâu sẽ có người liên hệ?"
+      },
+      {
+        "dap": "Thời gian bảo hành tùy thuộc vào từng loại máy lọc nước. Hãy liên hệ để biết thêm chi tiết.",
+        "hoi": "Bảo hành trong bao lâu?"
+      },
+      {
+        "dap": "Thời gian thay lõi phụ thuộc vào từng loại máy lọc nước. Hãy liên hệ để biết thêm chi tiết.",
+        "hoi": "Thời gian thay lõi là bao lâu?"
+      }
+    ],
+    "hero": {
+      "mo_ta": "Giúp bạn chọn máy lọc nước phù hợp",
+      "nhan": "Dành cho gia đình",
+      "nut": "Nhận tư vấn",
+      "tieu_de": "Lựa chọn máy lọc nước đúng cách"
+    },
+    "loi_ich": [
+      {
+        "icon": "💧",
+        "mo_ta": "Giảm ô nhiễm từ nước máy",
+        "tieu_de": "Nước sạch hơn"
+      },
+      {
+        "icon": "💡",
+        "mo_ta": "Tư vấn từ chuyên gia",
+        "tieu_de": "Chuyên gia tư vấn"
+      },
+      {
+        "icon": "⏰",
+        "mo_ta": "Tiết kiệm thời gian lựa chọn",
+        "tieu_de": "Tiết kiệm thời gian"
+      }
+    ],
+    "seo_description": "Tư vấn miễn phí để chọn máy lọc nước phù hợp với gia đình bạn.",
+    "seo_title": "Tư vấn máy lọc nước phù hợp",
+    "van_de": {
+      "cac_y": [
+        "Không biết loại máy lọc nước nào tốt?",
+        "Đánh giá chất lượng nước gia đình",
+        "Tư vấn chọn máy lọc nước phù hợp"
+      ],
+      "tieu_de": "Bạn đang băn khoăn về máy lọc nước?"
+    }
+  },
+  "slug": "nen-mua-may-loc-nuoc-loai-nao",
+  "template": "mac_dinh"
+}

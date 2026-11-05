@@ -1,0 +1,100 @@
+{
+  "canh_bao": [],
+  "chu_de": "Máy lọc nước gia đình giá rẻ",
+  "cta_link": "#lien-he",
+  "duyet": true,
+  "mau": "#e4572e",
+  "ngay": "2026-11-05",
+  "nguon": [
+    "https://vi.wikipedia.org/wiki/Nhà_máy_lọc_nước",
+    "https://vi.wikipedia.org/wiki/Lọc_sạch_nước",
+    "https://vi.wikipedia.org/wiki/Nước_uống"
+  ],
+  "noi_dung": {
+    "cac_buoc": [
+      {
+        "mo_ta": "Đánh giá tình trạng nước nhà bạn",
+        "tieu_de": "Đánh giá nước"
+      },
+      {
+        "mo_ta": "Chọn loại máy lọc phù hợp",
+        "tieu_de": "Chọn máy lọc"
+      },
+      {
+        "mo_ta": "Nhận tư vấn miễn phí ngay",
+        "tieu_de": "Tư vấn miễn phí"
+      }
+    ],
+    "cta_cuoi": {
+      "mo_ta": "Đặt lịch tư vấn ngay hôm nay",
+      "nut": "Tư vấn miễn phí",
+      "tieu_de": "Bạn đã sẵn sàng sử dụng nước sạch chưa?"
+    },
+    "faq": [
+      {
+        "dap": "Chúng tôi sẽ tư vấn miễn phí để giúp bạn chọn máy lọc phù hợp.",
+        "hoi": "Tư vấn miễn phí có mất phí không?"
+      },
+      {
+        "dap": "Thời gian bảo hành tùy thuộc vào loại máy lọc bạn chọn.",
+        "hoi": "Bảo hành máy lọc nước bao lâu?"
+      },
+      {
+        "dap": "Cần thay lõi lọc theo khuyến nghị của nhà sản xuất.",
+        "hoi": "Khi nào cần thay lõi lọc?"
+      },
+      {
+        "dap": "Dựa trên chất lượng nước và số lượng người dùng.",
+        "hoi": "Máy lọc nước cần bao nhiêu điện năng?"
+      },
+      {
+        "dap": "Bạn có thể liên hệ trực tiếp để biết thêm chi tiết.",
+        "hoi": "Máy lọc nước giá bao nhiêu?"
+      },
+      {
+        "dap": "Chúng tôi cung cấp dịch vụ bảo trì định kỳ.",
+        "hoi": "Có dịch vụ bảo trì không?"
+      }
+    ],
+    "hero": {
+      "mo_ta": "Giải pháp nước sạch cho gia đình bạn",
+      "nhan": "Dành cho gia đình",
+      "nut": "Tư vấn miễn phí",
+      "tieu_de": "Nước sạch cho cả nhà chỉ sau 1 buổi tư vấn"
+    },
+    "loi_ich": [
+      {
+        "icon": "💧",
+        "mo_ta": "Loại bỏ tạp chất, vi khuẩn và kim loại nặng",
+        "tieu_de": "Nước sạch, an toàn"
+      },
+      {
+        "icon": "🌱",
+        "mo_ta": "Dễ dàng lắp đặt và sử dụng",
+        "tieu_de": "Dễ dàng sử dụng"
+      },
+      {
+        "icon": "💰",
+        "mo_ta": "Giá cả phải chăng, phù hợp mọi gia đình",
+        "tieu_de": "Giá rẻ"
+      },
+      {
+        "icon": "⏰",
+        "mo_ta": "Thời gian tư vấn nhanh chóng, thuận tiện",
+        "tieu_de": "Tư vấn nhanh"
+      }
+    ],
+    "seo_description": "Máy lọc nước gia đình giá rẻ, an toàn và dễ dàng sử dụng. Nhận tư vấn miễn phí ngay hôm nay!",
+    "seo_title": "Máy lọc nước gia đình giá rẻ",
+    "van_de": {
+      "cac_y": [
+        "Bạn lo lắng về chất lượng nước nhà?",
+        "Bạn muốn nước sạch cho cả gia đình?",
+        "Bạn đang tìm giải pháp tiết kiệm cho gia đình?"
+      ],
+      "tieu_de": "Máy lọc nước gia đình giá rẻ"
+    }
+  },
+  "slug": "may-loc-nuoc-gia-dinh-gia-re",
+  "template": "mac_dinh"
+}

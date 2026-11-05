@@ -1,0 +1,125 @@
+{
+  "canh_bao": [],
+  "chu_de": "Đồ ăn cho chó mèo: dinh dưỡng, cách chọn và lưu ý an toàn",
+  "cta_link": "#lien-he",
+  "duyet": true,
+  "mau": "#c4692b",
+  "ngay": "2026-11-05",
+  "nguon": [
+    "https://vi.wikipedia.org/wiki/Thức_ăn_cho_thú_cưng",
+    "https://vi.wikipedia.org/wiki/Thức_ăn_cho_mèo"
+  ],
+  "noi_dung": {
+    "cac_buoc": [
+      {
+        "mo_ta": "Chọn đúng loại thức ăn cho giai đoạn phát triển của thú cưng.",
+        "tieu_de": "Xác định nhu cầu dinh dưỡng"
+      },
+      {
+        "mo_ta": "Tìm hiểu thành phần và nguồn gốc để đảm bảo an toàn.",
+        "tieu_de": "Kiểm tra kỹ thành phần"
+      },
+      {
+        "mo_ta": "Tránh xa các thực phẩm nguy hiểm cho hệ tiêu hóa của chúng.",
+        "tieu_de": "Lưu ý về thực phẩm cấm"
+      }
+    ],
+    "cta_cuoi": {
+      "mo_ta": "Đừng để sự thiếu hiểu biết ảnh hưởng đến bạn cưng",
+      "nut": "Nhận tư vấn miễn phí",
+      "tieu_de": "Sự an toàn quan trọng hơn sự rẻ tiền"
+    },
+    "faq": [
+      {
+        "dap": "Thức ăn khô tiện lợi cho người bận, thức ăn ướt giúp giảm nguy cơ tiêu hóa.",
+        "hoi": "Loại thức ăn nào phù hợp nhất?"
+      },
+      {
+        "dap": "Hạn chế cho ăn đồ ăn thừa của người, tránh thực phẩm không lành mạnh.",
+        "hoi": "Thức ăn nào nên tránh?"
+      },
+      {
+        "dap": "Mèo là động vật ăn thịt, không thể tự tổng hợp taurine và arginine.",
+        "hoi": "Tại sao mèo cần ăn thịt?"
+      },
+      {
+        "dap": "Thức ăn thừa của người có thể chứa gia vị và chất bảo quản độc hại.",
+        "hoi": "Cho chó ăn thức ăn của người được không?"
+      }
+    ],
+    "hero": {
+      "mo_ta": "Bạn sẽ biết cách chọn đồ ăn lành mạnh và tránh các thực phẩm gây hại cho thú cưng.",
+      "nhan": "Dành cho người nuôi",
+      "nut": "Nhận tư vấn miễn phí",
+      "tieu_de": "Chó mèo của bạn đang ăn đúng chưa?"
+    },
+    "loi_ich": [
+      {
+        "icon": "🛡️",
+        "mo_ta": "Giảm thiểu rủi ro bệnh tiêu hóa và viêm đường ruột.",
+        "tieu_de": "Bảo vệ hệ tiêu hóa"
+      },
+      {
+        "icon": "🥩",
+        "mo_ta": "Đảm bảo nguồn protein và vitamin cần thiết cho phát triển.",
+        "tieu_de": "Cung cấp dinh dưỡng thiết yếu"
+      },
+      {
+        "icon": "👁️",
+        "mo_ta": "Tránh thiếu hụt taurine gây thoái hóa võng mạc và mất thị lực.",
+        "tieu_de": "Bảo vệ thị lực"
+      },
+      {
+        "icon": "🐈",
+        "mo_ta": "Phù hợp với từng giai đoạn tuổi và thể trạng của thú cưng.",
+        "tieu_de": "Điều chỉnh khẩu phần ăn"
+      }
+    ],
+    "seo_description": "Hướng dẫn chọn thức ăn chó mèo đúng dinh dưỡng, tránh thực phẩm cấm và bảo vệ sức khỏe thú cưng hiệu quả.",
+    "seo_title": "Hướng dẫn chọn thức ăn chó mèo an toàn",
+    "van_de": {
+      "cac_y": [
+        "Nhiều người không biết mèo cần protein từ thịt chứ không phải thực vật.",
+        "Chọn sai loại thức ăn có thể gây bệnh về tiêu hóa lâu dài.",
+        "Thức ăn thừa của người chứa nhiều gia vị gây hại cho chó mèo.",
+        "Mèo thiếu taurine lâu dài có thể bị thoái hóa võng mạc và mất thị lực."
+      ],
+      "tieu_de": "Tại sao bạn cần quan tâm đến chế độ ăn của thú cưng?"
+    }
+  },
+  "slug": "do-an-cho-cho-meo",
+  "template": "mac_dinh",
+  "video": {
+    "file": "video.mp4",
+    "ghi_cong": [
+      {
+        "giay_phep": "CC BY-SA 4.0",
+        "tac_gia": "Aerous",
+        "trang": "https://commons.wikimedia.org/wiki/File:Cat_and_Dog_in_Vertis_North.jpg"
+      },
+      {
+        "giay_phep": "CC BY-SA 4.0",
+        "tac_gia": "Faypearse",
+        "trang": "https://commons.wikimedia.org/wiki/File:Cat_and_Dog_Game.jpg"
+      },
+      {
+        "giay_phep": "CC BY-SA 2.0",
+        "tac_gia": "S. J. Pyrotechnic from Boise, ID, USA",
+        "trang": "https://commons.wikimedia.org/wiki/File:Cute_cat_and_dog_1.jpg"
+      },
+      {
+        "giay_phep": "CC BY-SA 3.0",
+        "tac_gia": "BrokenSphere",
+        "trang": "https://commons.wikimedia.org/wiki/File:Rat,_cat_%26_dog_pyramid_at_Fisherman%27s_Wharf.JPG"
+      },
+      {
+        "giay_phep": "CC BY-SA 4.0",
+        "tac_gia": "Pinakpani",
+        "trang": "https://commons.wikimedia.org/wiki/File:Cat_and_Dog_relationship.jpg"
+      }
+    ],
+    "ngang": true,
+    "poster": "poster.jpg",
+    "so_canh": 5
+  }
+}
